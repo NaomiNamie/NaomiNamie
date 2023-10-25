@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaomiNamie
 - 👀 I’m interested in programming and technology
-- 🌱 I’m currently learning HTML in Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript e Python.
 - 💞️ I'm looking to collaborate I'm with communities and open source
 - 📫 How to reach me: Linkedin: Naomi Namie
 - 📫 E-mail: naominamie1@outlook.com
