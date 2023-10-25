@@ -2,5 +2,6 @@
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning HTML, CSS, JavaScript e Python.
 - 💞️ I'm looking to collaborate I'm with communities and open source
-- 📫 How to reach me: Linkedin: Naomi Namie https://www.linkedin.com/in/naomi-namie-0b0b0b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📫 How to reach me: Linkedin: Naomi Namie
+- https://www.linkedin.com/in/naomi-namie-0b0b0b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 📫 E-mail: naominamie1@outlook.com
